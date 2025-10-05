@@ -7,7 +7,7 @@ This app allows users to navigate between images with *Next* and *Previous* butt
 
 ## 🎥 YouTube Tutorial
 Watch the full tutorial and explanation on YouTube:  
-👉 [Watch on YouTube](https://youtube.com/)
+👉 [Watch on YouTube]([https://youtube.com/](https://youtu.be/Vbu1UAaoJxw?si=vKq-LNAGHe5UT54C))
 
 ---
 
@@ -32,7 +32,7 @@ Follow these steps to set up and run the project:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/flet-image-slider.git
+git clone https://github.com/navideveloper/flet-image-slider.git
 
 # 2. Navigate to the project directory
 cd flet-image-slider
