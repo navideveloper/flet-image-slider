@@ -7,7 +7,7 @@ This app allows users to navigate between images with *Next* and *Previous* butt
 
 ## 🎥 YouTube Tutorial
 Watch the full tutorial and explanation on YouTube:  
-👉 [Watch on YouTube]([https://youtube.com/](https://youtu.be/Vbu1UAaoJxw?si=vKq-LNAGHe5UT54C))
+👉 [Watch on YouTube](https://youtu.be/Vbu1UAaoJxw?si=vKq-LNAGHe5UT54C)
 
 ---
 
